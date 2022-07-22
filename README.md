@@ -3,11 +3,11 @@ Codepath Prework
 
 # Android Prework - *Introductory App*
 
-Submitted by: Richard Kang
+Submitted by: **Richard Kang**
 
 **Introductory App** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: *10 minutes* spent in total
+Time spent: **10 minutes** spent in total
 
 ## Required Features
 
